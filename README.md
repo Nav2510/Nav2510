@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nav2510
-- 👀 I’m interested in Learning new things. :) 
-- 🌱 Currently I am learning complete product knowledge from design to deploying. Hey checkout my repo `interviewDream` which is my latest work.
-- 💞️ I’m looking to collaborate on any open project
+- 👋 Hi, I’m Navdeep Singh
+- 👀 Nature lover with tons of hoobies 😋.
+- 🌱 Currently I am working on NgxFormLib which is my latest work. Also checkout my repo `interviewDream`.
+- 💞️ I’m looking to collaborate on any open project.
 - 📫 Connect with me on mail `singh.navdeep2510@gmail.com`
 
 <!---
